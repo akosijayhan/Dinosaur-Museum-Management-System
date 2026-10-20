@@ -1,0 +1,1 @@
+Full-stack Museum Management System built with Vue 3, Pinia, Django REST Framework, and PostgreSQL
